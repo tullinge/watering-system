@@ -29,9 +29,7 @@ Serial.print(" "); */
   if (soilMoisture > 660)
   {
     digitalWrite(13, HIGH);
-  }
-
-  else
+  } else
   {
     digitalWrite(13, LOW);
   }
