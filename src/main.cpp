@@ -2,6 +2,7 @@
 
 const int soilRead = A0;
 int soilMoisture = 0;
+int RelayPin=13;
 //Constants
 //Hygrometer sensor analog pin output at pin A0 of Arduino
 //Variables
@@ -12,6 +13,7 @@ void setup()
 
   Serial.begin(9600);
   pinMode(soilRead, INPUT);
+  pinMode(RelayPin, OUTPUT);
 }
 
 void loop()
@@ -28,11 +30,13 @@ Serial.print(" "); */
 
   if (soilMoisture > 660)
   {
-    digitalWrite(13, HIGH);
-  } else
-  {
-    digitalWrite(13, LOW);
+     digitalWrite(RelayPin, LOW);
   }
 
-  delay(2000);
+  else
+  {
+     digitalWrite(RelayPin, HIGH);
+  }
+
+  delay(3000);
 }
