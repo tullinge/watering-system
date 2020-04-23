@@ -12,6 +12,6 @@
 4. Then the wateringsystem will run by itself.
 
 ## H2 Contributers
-* Maciej Grzegorz Staniszewski maciej.grzegorz.staniszewski@skola.botkyrka.se
+* Maciej Grzegorz Staniszewski maciej.grzegorzstaniszewski@skola.botkyrka.se
 * Marcus Lännholm marcus.lannholm@skola.botkyrka.se
 * Carl Rignér carl.rigner@skola.botkyrka.se
