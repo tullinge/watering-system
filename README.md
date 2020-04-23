@@ -2,7 +2,7 @@
 
 ## H Requirements
 * VS Code
-* Complete **Curcuit** with Arduino, see [**Schematics**]https://github.com/tullinge/watering-system/blob/master/Schematics for instructions
+* Complete **Curcuit** with Arduino, see [**Schematics**](https://github.com/tullinge/watering-system/blob/master/Schematics) for instructions
 * Phsyical construction, see line ... for instructions
 
 ## H2 Instructions
