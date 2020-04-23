@@ -2,7 +2,7 @@
 
 ## H Requirements
 * VS Code
-* Complete **Curcuit** with Arduino, see **Shematics** for instructions
+* Complete **Curcuit** with Arduino, see Schematics for instructions
 * Phsyical construction, see line ... for instructions
 
 ## H2 Instructions
