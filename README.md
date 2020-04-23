@@ -2,8 +2,8 @@
 
 ## H Requirements
 * VS Code
-* Complete curcuit with Arduino as shown at ... in READ.me file
-* Phsyical construction, see line ... for instruction
-* 
+* Complete **Curcuit** with Arduino, see line ... for instructions
+* Phsyical construction, see line ... for instructions
 
-## H2 Specifications
+## H2 Instructions
+To use the wateringsystem, run the code in VS Code with the **Curcuit** connected to the computer.
