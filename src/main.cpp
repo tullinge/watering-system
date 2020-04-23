@@ -28,7 +28,7 @@ Serial.print(soilMoisture);
 Serial.print(" "); */
   Serial.println(soilMoisture);
 
-  if (soilMoisture > 660)
+  if (soilMoisture < 670)
   {
      digitalWrite(RelayPin, LOW);
   }
