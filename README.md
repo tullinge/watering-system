@@ -17,4 +17,11 @@
 * Carl Rignér carl.rigner@skola.botkyrka.se
 
 ## Schematics and models
+#### 1. Model of the watering system in place at Tullinge Gymnasium
 ![model of whole watering system](https://user-images.githubusercontent.com/62376944/80419396-5eeb9680-88d9-11ea-9179-14effc18067e.jpg)
+
+#### 2. Model of the water tower construction
+![Watertower construction model](https://user-images.githubusercontent.com/62376944/80419428-6e6adf80-88d9-11ea-9922-7097ab1123a0.jpg)
+
+#### 3. Model of the white Arduino box (shown at picture 1)
+![model of Arduino box](https://user-images.githubusercontent.com/62376944/80419444-7296fd00-88d9-11ea-8463-93f0dcd7e3cb.jpg)
