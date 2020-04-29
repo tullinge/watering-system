@@ -2,7 +2,7 @@
 
 ## Requirements
 * VS Code
-* Complete Curcuit with Arduino, see [create an anchor](#1-Model-of-the-watering-system-in-place-at-Tullinge-Gymnasium:) for a curcuit schematic.
+* Complete Curcuit with Arduino, see [Model of the watering system](watering-system/README.md) for a curcuit schematic.
 * Phsyical construction, see **Schematics and models: nr. 1** for an example.
 
 ## Instructions
