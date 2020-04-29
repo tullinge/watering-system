@@ -2,8 +2,8 @@
 
 ## Requirements
 * VS Code
-* Complete Curcuit with Arduino, see [Model of the watering system](https://github.com/tullinge/watering-system/blob/master/README.md#schematics-and-models) for a curcuit schematic.
-* Phsyical construction, see **Schematics and models: nr. 1** for an example.
+* Complete Curcuit with Arduino, see  for a curcuit schematic.
+* Phsyical construction, see [Model of the watering system](https://github.com/tullinge/watering-system/blob/master/README.md#schematics-and-models) for an example.
 
 ## Instructions
 1. To use the watering system properly with a controlled water output, run the code in VS Code with the **Curcuit** connected to the computer.
