@@ -7,7 +7,7 @@
 
 ## Instructions
 1. To use the watering system properly with a controlled water output, run the code in VS Code with the circuit connected to the computer.
-2. Connect the circuit to the valve, see **Schematics and models: nr. 3** for a model and **Schematics and models: nr. 4** for a circuit schematic.
+2. Connect the circuit to the valve, see **Schematics and models: nr. 3** for a model and [Circuit schematic](https://github.com/tullinge/watering-system/blob/master/README.md#4-circuit-schematic) for a circuit schematic.
 3. Put the moisturecensors in each cultivation box and make shure the watertank isn't empty.
 4. Then the watering system will run by itself.
 
