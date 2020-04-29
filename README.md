@@ -2,7 +2,7 @@
 
 ## Requirements
 * VS Code
-* Complete Curcuit with Arduino, see [Model of the watering system](watering-system/README.md) for a curcuit schematic.
+* Complete Curcuit with Arduino, see [Model of the watering system](https://github.com/tullinge/watering-system/blob/master/README.md) for a curcuit schematic.
 * Phsyical construction, see **Schematics and models: nr. 1** for an example.
 
 ## Instructions
