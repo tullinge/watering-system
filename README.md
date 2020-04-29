@@ -2,11 +2,11 @@
 
 ## Requirements
 * VS Code
-* Complete Circuit with Arduino, see the [circuit schematic](https://github.com/tullinge/watering-system/blob/master/README.md#4-circuit-schematic) for an example.
+* Complete circuit with Arduino, see the [circuit schematic](https://github.com/tullinge/watering-system/blob/master/README.md#4-circuit-schematic) for an example.
 * Phsyical construction, see the [model of the watering system](https://github.com/tullinge/watering-system/blob/master/README.md#schematics-and-models) for an example.
 
 ## Instructions
-1. To use the watering system properly with a controlled water output, run the code in VS Code with the circuit connected to the computer.
+1. To use the watering system properly with a controlled water output, run the code in VS Code with the Arduino connected to the computer.
 2. Connect the circuit to the valve, see a [model of the valve connection](https://github.com/tullinge/watering-system/blob/master/README.md#3-model-of-the-arduino-box-with-the-valve-connected-the-white-box-at-picture-1) and a [circuit schematic](https://github.com/tullinge/watering-system/blob/master/README.md#4-circuit-schematic) for examples and instructions of how to connect.
 3. Put the moisturecensors in each cultivation box and make shure the watertank isn't empty.
 4. Then the watering system will run by itself.
