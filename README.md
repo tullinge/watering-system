@@ -24,7 +24,7 @@
 ![Watertower construction model](https://user-images.githubusercontent.com/62376944/80419428-6e6adf80-88d9-11ea-9922-7097ab1123a0.jpg)
 
 #### 3 Model of the Arduino box with the valve connected (the white box at picture 1):
-![model of Arduino box](https://user-images.githubusercontent.com/62376944/80419444-7296fd00-88d9-11ea-8463-93f0dcd7e3cb.jpg)
+![arduino låda v2](https://user-images.githubusercontent.com/62376944/80630658-d85bc400-8a54-11ea-8709-cd1887b3dcff.jpg)
 
 #### 4 Curcuit schematic:
 - in colour
