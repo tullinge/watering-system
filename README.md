@@ -26,6 +26,6 @@
 #### 3. Model of the Arduino box with the valve connected (the white box at picture 1):
 ![arduino låda v2](https://user-images.githubusercontent.com/62376944/80630658-d85bc400-8a54-11ea-8709-cd1887b3dcff.jpg)
 
-#### 4. Circuit schematic:
+#### 4. Circuit schematics:
 ![in colour](https://user-images.githubusercontent.com/62376944/83003088-1e815480-a00e-11ea-976c-afcb84f56610.png)
 ![static](https://user-images.githubusercontent.com/62376944/83003117-280abc80-a00e-11ea-9b49-49982453823e.png)
