@@ -3,7 +3,7 @@
 ## Requirements
 * VS Code
 * Complete circuit with Arduino, see the [circuit schematic](https://github.com/tullinge/watering-system/blob/master/README.md#4-circuit-schematic) for an example.
-* Phsyical construction, see the [Real-life picture of the wateirng system](https://github.com/tullinge/watering-system/blob/master/README.md#5-real-life-picture-of-the-watering-system) for an example.
+* Phsyical construction, see the [Real-life picture of the watering system](https://github.com/tullinge/watering-system/blob/master/README.md#5-real-life-picture-of-the-watering-system) for an example.
 
 ## Instructions
 1. To use the watering system properly with a controlled water output, run the code in VS Code with the Arduino connected to the computer.
