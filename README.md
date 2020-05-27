@@ -7,7 +7,7 @@
 
 ## Instructions
 1. To use the watering system properly with a controlled water output, run the code in VS Code with the Arduino connected to the computer.
-2. Connect the circuit to the valve, see a [model of the valve connection](https://github.com/tullinge/watering-system/blob/master/README.md#3-model-of-the-arduino-box-with-the-valve-connected-the-white-box-at-picture-1) and a [circuit schematic](https://github.com/tullinge/watering-system/blob/master/README.md#4-circuit-schematic) for examples and instructions of how to connect.
+2. Connect the circuit to the valve, see a [model of the valve connection](https://github.com/tullinge/watering-system/blob/master/README.md#3-model-of-the-arduino-box-with-the-valve-connected-the-white-box-at-picture-1) and a [circuit schematic](https://github.com/tullinge/watering-system/blob/master/README.md#4-circuit-schematic) for examples and instructions of how to connect. When the valve is connected to the circuit, se an example of how to place the valve and its connections safely protected from outdoor weather: (https://github.com/tullinge/watering-system/blob/master/README.md#5-real-life-picture-of-the-watering-system)
 3. Put the moisture censors in each cultivation box and make shure the watertank isn't empty. Place the moisture censors close to the water outlet to make sure the Arduino does not let to much water out at once.
 4. Activate the system by connecting the battery wires to the curcuit. A green LED on the Arduino will light up when running.
 
