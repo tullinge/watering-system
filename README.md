@@ -32,3 +32,4 @@
 
 #### 5. Real life picture of the watering system:
 ![system-irl](https://user-images.githubusercontent.com/62376944/83065615-118f5000-a064-11ea-83b4-c901695746da.jpg)
+_Left side - 1: The whole watering system photographed from the cultivation box. 2: The cultivation box with its watering tubes by the plants and the Arduino housing (the red box). 3: Arduino housing with the valve connected and kept away from dirt and rain._
